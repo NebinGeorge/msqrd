@@ -1,6 +1,6 @@
 # HEPMC and Analysis files for mass squared analysis in EIC-dRICH
 ## HEPMC files and ana files
-Hepmc file named msqd.hepmc and ana file named anamsqd.root is available in the folder hepmc and ana respectively.
+Hepmc file named msqd.hepmc and analysis file named anamsqd.root is available in the folder hepmc and ana respectively.
 ## Particle Information and Parameter Ranges
 
 ### Particles Included
