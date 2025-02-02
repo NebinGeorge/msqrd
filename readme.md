@@ -1,4 +1,4 @@
-# HEPMC and Analysis files for mass squared plots in EIC-dRICH.
+# HEPMC and Analysis files for mass squared analysis in EIC-dRICH.
 ## HEPMC files and ana files
 Hepmc file named msqd.hepmc and ana file named anamsqd.root is available in the folder hepmc and ana respectively.
 ## Particle Information and Parameter Ranges
@@ -17,8 +17,8 @@ Hepmc file named msqd.hepmc and ana file named anamsqd.root is available in the 
 The particles were selected randomly during HEPMC file generation, with their momentum, pseudorapidity, and phi values randomised within the specified ranges.
 
 ## Code
-For the generation of mass square plots following files were edited 
+For the generation of mass square plots following files were edited: 
 - CherenkovPIDAnalysis.cc
 - CherenkovPIDAnalysis.h
 
-The files are available in the folder code.
+The files are available in the folder 'code'.
